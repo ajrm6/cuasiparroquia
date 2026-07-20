@@ -1,19 +1,15 @@
 name: Deploy static content to Pages
 
 on:
-  # Se ejecuta automáticamente cada vez que subas cambios a la rama principal
   push:
-    branches: ['main']
-  # Permite ejecutar el flujo de trabajo manualmente desde la pestaña Actions
+    branches: ['main', 'master']
   workflow_dispatch:
 
-# Permisos necesarios para que GitHub Actions pueda publicar en GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Permite solo una implementación a la vez
 concurrency:
   group: 'pages'
   cancel-in-progress: true
