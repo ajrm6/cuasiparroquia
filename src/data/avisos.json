@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "titulo": "Solemnidad de San Juan Pablo II",
+    "fecha": "2026-10-22",
+    "descripcion": "Celebraremos la fiesta patronal con una misa solemne y convivio. ¡No faltes!",
+    "imagen_url": "https://images.unsplash.com/photo-1548625361-ecb786d7e0fb?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 2,
+    "titulo": "Inscripciones de Catecismo",
+    "fecha": "2026-08-01",
+    "descripcion": "Están abiertas las inscripciones para Primera Comunión y Confirmación en la oficina notarial.",
+    "imagen_url": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 3,
+    "titulo": "Retiro Espiritual para Jóvenes",
+    "fecha": "2026-09-15",
+    "descripcion": "Te invitamos al retiro juvenil de este mes. Una oportunidad para encontrarte con Dios.",
+    "imagen_url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=500&auto=format&fit=crop&q=60"
+  }
+]

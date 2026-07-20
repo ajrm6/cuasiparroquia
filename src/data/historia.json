@@ -1,0 +1,15 @@
+{
+  "descripcion_corta": "La Cuasiparroquia San Juan Pablo II es una comunidad de fe comprometida con el Evangelio, inspirada en las enseñanzas de nuestro santo patrono. Fundada recientemente para atender las necesidades espirituales de la zona.",
+  "parrocos": [
+    {
+      "nombre": "Pbro. Juan Pérez",
+      "periodo": "2015 - 2020",
+      "obra": "Fundación e inicio de construcción del templo principal."
+    },
+    {
+      "nombre": "Pbro. Luis Martínez",
+      "periodo": "2020 - Presente",
+      "obra": "Consolidación de los grupos pastorales y acabados del templo."
+    }
+  ]
+}

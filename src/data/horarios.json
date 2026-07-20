@@ -1,0 +1,16 @@
+{
+  "misas_dominicales": [
+    { "hora": "08:00 AM", "tipo": "Misa Dominical" },
+    { "hora": "12:00 PM", "tipo": "Misa Solemne" },
+    { "hora": "06:00 PM", "tipo": "Misa Dominical Vespertina" }
+  ],
+  "misas_ordinarias": [
+    { "dia": "Lunes a Viernes", "hora": "07:00 PM", "tipo": "Misa Diaria" },
+    { "dia": "Jueves", "hora": "06:00 PM", "tipo": "Hora Santa" }
+  ],
+  "notaria": {
+    "dias": "Martes a Sábado",
+    "horario": "10:00 AM - 02:00 PM y 04:00 PM - 07:00 PM",
+    "telefono": "(555) 123-4567"
+  }
+}
